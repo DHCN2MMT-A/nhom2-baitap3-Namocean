@@ -13,9 +13,12 @@
   nav ul{
       list-style-type: none;
       text-align: center;
+      display: block;
+      margin-right:  -560px;
   }
   nav li{
       display: inline-block;
+      
   }
   /*body*/
 body{
